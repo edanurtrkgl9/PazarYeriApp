@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="nav_category" type="id" />
+    <item name="nav_profile" type="id" />
+    <item name="nav_offers" type="id" />
+    <item name="nav_new_products" type="id" />
+    <item name="nav_my_orders" type="id" />
+    <item name="nav_my_carts" type="id" />
+    <item name="nav_host_fragment" type="id" />
+    <item name="nav_header_name" type="id" />
+    <item name="nav_header_email" type="id" />
+    <item name="nav_header_img" type="id" />
+    <item name="logout" type="id" />
+</resources>

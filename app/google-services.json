@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "174940542580",
+    "project_id": "pazar-yeri-app",
+    "storage_bucket": "pazar-yeri-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:174940542580:android:cd1149711d95725f7ba321",
+        "android_client_info": {
+          "package_name": "com.example.pazaryeriapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "174940542580-r0nq9uc235956ojle6us03i89spnngjv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDc_nSBj9H4almu6jLSioGDkgrfHf6Y6b4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "174940542580-r0nq9uc235956ojle6us03i89spnngjv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
